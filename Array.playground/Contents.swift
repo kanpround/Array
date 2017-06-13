@@ -14,7 +14,7 @@ intArrayNumber2 = [55,66,77,88,13.4]
 //String type
 var strArrayName = ["Kaika","หมู","หมา"]
 var strArrayName2 = [String]()
-strArrayName2 = ["Jusmin","กุหลาบ","จำปี"]
+strArrayName2 = ["Jusmine","กุหลาบ","จำปี"]
 
 //Double
 var douArrayNum3 = [1.2,1.3,1.4,5]
